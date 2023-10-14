@@ -1,1 +1,1 @@
-# Gaussian_Process
+# Gaussian process
